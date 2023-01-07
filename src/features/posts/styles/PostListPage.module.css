@@ -1,0 +1,17 @@
+.bg {
+  background-color: red;
+}
+
+.head {
+  font-style: italic;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.list > li {
+  /* padding-left: 10px; */
+  margin-bottom: 10px;
+}
